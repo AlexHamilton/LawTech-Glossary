@@ -117,5 +117,7 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **Workflow** A system for automatically tracking and directing the flow of a process. A point rarely discussed in polite company is that most lawtech products are a twist on workflow and databases.
 
-Licence: Attribution-ShareAlike 4.0 International (c) Radiant Law 2018
+Licence: Attribution-ShareAlike 4.0 International (c) Radiant Law 2018 and contributors
+
 Credit: Original idea and inspiration by @BamLegal
+Contributors: @AlexHamiltonRad, @MaziarJamnejad
