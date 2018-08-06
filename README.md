@@ -8,7 +8,7 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 **Algorithm** A process or set of rules used by a computer to solve a problem. Algorithms do not sound as exciting as “artificial intelligence” and are accordingly looked down on by those in the know.
 
 **Artificial Intelligence** A term for when a computer system does magic. “General” artificial intelligence refers to thinking computers, a concept that for the foreseeable future exists only in science fiction and lawtech talks. “Narrow” artificial
-  intelligence refers to a limited capability (albeit one that may be very useful) such as classifying text or pictures, or expert systems. Discussions of AI that blur general and narrow AI are a good indication that you are dealing with bullshit.
+  intelligence refers to a limited capability (albeit one that may be very useful) such as classifying text or pictures, or expert systems. Discussions of AI that blur general and narrow AI are a good indication that you are dealing with bullshit. Look for vendors who consistently use the term machine learning or even better classification, and you will be better served.
 
 **App** A program. The term normally refers to an application that is installed on a smartphone. Compare with an interactive website that is accessed through a browser on a laptop or smartphone (and would cost a tenth-as-much as an app to build).
 
