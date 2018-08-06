@@ -105,6 +105,10 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **Smart contract** A program that typically is tied to a blockchain and “self executes” a transaction, e.g., it will automatically transfer cryptocurrency funds, change a registry or perform another act if certain conditions are satisfied. It is unclear whether a smart contract is a legally-recognised contract or what you are meant to do if someone makes a programming error. Compare with computable contracts.
 
+**TAR** See Technology Assisted Review.
+
+**Technology Assisted Review** Applying technology such as machine learning or data visualisation to an e-discovery exercise (aka document review) undertaken in the context of litigation, arbitration or an investigation. 
+
 **Triage** The part of the intake process where the legal team/supplier determines the priority of the matter and who should work on it.
 
 **User-centric** Obsolete. To focus your lawtech product on actual user needs and usability.
