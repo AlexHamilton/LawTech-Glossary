@@ -7,12 +7,15 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **Algorithm** A process or set of rules used by a computer to solve a problem. Algorithms do not sound as exciting as “artificial intelligence” and are accordingly looked down on by those in the know.
 
-**Artificial Intelligence** A term for when a computer system does magic. “General” artificial intelligence refers to thinking computers, a concept that for the foreseeable future exists only in science fiction and lawtech talks. “Narrow” artificial
-  intelligence refers to a limited capability (albeit one that may be very useful) such as classifying text or pictures, or expert systems. Discussions of AI that blur general and narrow AI are a good indication that you are dealing with bullshit.
+**API** See application programming interface.
 
 **App** A program. The term normally refers to an application that is installed on a smartphone. Compare with an interactive website that is accessed through a browser on a laptop or smartphone (and would cost a tenth-as-much as an app to build).
 
+**Application Programming Interface** A way to allow a system to be accessed by other systems (as opposed to by humans through the browser). Most LawTech products have an API, but these shouldn't be confused with what the rest of the world considers necessary such as being well documented or working.
+
 **Approval process** A part of the contracting process where a contract that is ready to be signed (or a first draft) is approved by one or more individuals. This process can be automated, as in there is a workflow for handling the sequencing of different approval stages and approvals can be given online.
+
+**Artificial Intelligence** A term for when a computer system does magic. “General” artificial intelligence refers to thinking computers, a concept that for the foreseeable future exists only in science fiction and lawtech talks. “Narrow” artificial intelligence refers to a limited capability (albeit one that may be very useful) such as classifying text or pictures, or expert systems. Discussions of AI that blur general and narrow AI are a good indication that you are dealing with bullshit.
 
 **Big data** A formerly-important mainstay of lawtech conferences that fell out of fashion when it was realised that there were few examples of Google-scale data in law.
 
