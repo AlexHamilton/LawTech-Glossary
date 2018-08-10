@@ -17,7 +17,7 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **Artificial Intelligence** A term for when a computer system does magic. “General” artificial intelligence refers to thinking computers, a concept that for the foreseeable future exists only in science fiction and lawtech talks. “Narrow” artificial intelligence refers to a limited capability (albeit one that may be very useful) such as classifying text or pictures, or expert systems. Discussions of AI that blur general and narrow AI are a good indication that you are dealing with bullshit.
 
-**Big data** A formerly-important mainstay of lawtech conferences that fell out of fashion when it was realised that there were few examples of Google-scale data in law.
+**Big data** A formerly-important mainstay of lawtech conferences that fell out of fashion when it was realised that there were few examples of Google-scale data in law, unless a firm had abaondoned its information governance program.
 
 **BigLaw** A large law firm (typically more than 500 lawyers), that will almost certainly have a lawtech accelerator, making them an excellent source of office space for early stage lawtech companies (and late stage companies that just want some free space).
 
@@ -73,6 +73,8 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 **Key performance Indicator** A measure used to track the status of a critical part of a process, that can be used to determine whether a supplier (no-one knowingly imposes a KPI on themselves) is delivering to the required standard. Also referred to as a service level in the context of contractual obligations.
 
 **KPI** See key performance indicator.
+
+**Lawtech Accellerator** An incubation program designed to help legal technology startups more quickly come to the realization that the legal industry does not readily adopt innovative solutions.
 
 **Legal Tech** Term used by suppliers of SharePoint resprays to law firms, who haven’t read the memo about “LawTech”.
 
