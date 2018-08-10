@@ -125,4 +125,5 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 Licence: Attribution-ShareAlike 4.0 International (c) Radiant Law 2018 and contributors
 
 Credit: Original idea and inspiration by @BamLegal
-Contributors: @AlexHamiltonRad, @MaziarJamnejad
+
+Contributors: @AlexHamiltonRad, @MaziarJamnejad, @JeffKerr, @CyborgAbeLincoln
