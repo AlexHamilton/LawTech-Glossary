@@ -17,9 +17,9 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **Artificial Intelligence** A term for when a computer system does magic. “General” artificial intelligence refers to thinking computers, a concept that for the foreseeable future exists only in science fiction and lawtech talks. “Narrow” artificial intelligence refers to a limited capability (albeit one that may be very useful) such as classifying text or pictures, or expert systems. Discussions of AI that blur general and narrow AI are a good indication that you are dealing with bullshit.
 
-**Big data** A formerly-important mainstay of lawtech conferences that fell out of fashion when it was realised that there were few examples of Google-scale data in law, unless a firm had abaondoned its information governance program.
+**Big data** A formerly-important mainstay of lawtech conferences that fell out of fashion when it was realised that there were few examples of Google-scale data in law, unless a firm had abandoned its information governance program.
 
-**BigLaw** A large law firm (typically more than 500 lawyers), that will almost certainly have a lawtech accelerator, making them an excellent source of office space for early stage lawtech companies (and late stage companies that just want some free space).
+**BigLaw** A large law firm (typically more than 500 lawyers), that will almost certainly have a lawtech accelerator, making them an excellent source of free office space for early (and late) stage lawtech companies.
 
  **Bitcoin** The first cryptocurrency that introduced, and is built on, the blockchain. Bitcoin’s biggest role in legal practice is lunchtime investing (aka gambling) by the junior lawyers in your team.
 
