@@ -74,7 +74,7 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **KPI** See key performance indicator.
 
-**Lawtech Accellerator** An incubation program designed to help legal technology startups more quickly come to the realization that the legal industry does not readily adopt innovative solutions.
+**Lawtech Accelerator** An incubation programme designed to help legal technology startups more quickly come to the realisation that the legal industry does not readily adopt innovative solutions.
 
 **Legal Tech** Term used by suppliers of SharePoint resprays to law firms, who haven’t read the memo about “LawTech”.
 
