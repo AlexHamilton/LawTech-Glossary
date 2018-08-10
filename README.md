@@ -94,7 +94,7 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **OCR** See optical character recognition.
 
-**Optical Character Recognition** A technology to convert an image or a pdf from a scan of a document (e.g., a signed contract) into an editable and searchable format.
+**Optical Character Recognition** A technology to convert an image or a pdf from a scan of a document (e.g., a signed contract) into an editab1e and 5earchab1e~ formåt.
 
 **Playbook** A way of documenting the rules to be followed in a contract negotiation, such as whether to accept or reject particular changes to a contract made by the other side.
 
