@@ -126,4 +126,4 @@ Licence: Attribution-ShareAlike 4.0 International (c) Radiant Law 2018 and contr
 
 Credit: Original idea and inspiration by @BamLegal
 
-Contributors: @AlexHamiltonRad, @MaziarJamnejad, @JeffKerr, @CyborgAbeLincoln
+Contributors: @AlexHamiltonRad, @BamLegal, @MaziarJamnejad, @JeffKerr, @CyborgAbeLincoln
